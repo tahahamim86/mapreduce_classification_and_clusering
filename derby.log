@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Dec 02 14:40:23 WAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0193-8799-cb4a-00002be092e8 
+on database directory C:\Users\bough\OneDrive\Desktop\R_project\metastore_db with class loader sun.misc.Launcher$AppClassLoader@182decdb 
+Loaded from file:/C:/Users/bough/Downloads/spark-3.5.3-bin-hadoop3/spark-3.5.3-bin-hadoop3/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b14
+user.dir=C:\Users\bough\OneDrive\Desktop\R_project
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
